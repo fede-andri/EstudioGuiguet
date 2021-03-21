@@ -1,0 +1,61 @@
+#titulo-contacto{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#contacto{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#formulario-contacto{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+
+form input[type=text],input[type=email],input[type=tel]{
+    margin-bottom: 15px;
+    width: 500px;
+    border: solid #034C8C 2px;
+    border-radius: 7px;
+}
+
+form textarea{
+    margin-bottom: 25px;
+    border: solid #034C8C 2px;
+    border-radius: 7px;
+}
+
+form input[type=submit]{
+    height: 35px;
+    width: 150px;
+    background-color: #034C8C;
+    color: white;
+    border: solid black 2px;
+    border-radius: 7px;
+    font-weight: bold;
+}
+
+form label{
+    font-weight: bolder;
+}
+
+#contactanos{
+    font-weight: bold;
+}
+
+.datos{
+    display: flex;
+    margin-top: 30px;
+}
+
+.icono-contacto{
+    margin-right: 30px;
+}
+
+iframe{
+    margin-top: 50px;
+}
