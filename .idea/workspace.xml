@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b88a859-54b4-41a7-9b4e-ed57dadb0845" name="Default Changelist" comment="" />
+    <list default="true" id="3b88a859-54b4-41a7-9b4e-ed57dadb0845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/emailContacto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/telefono-inteligente.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ubicacion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacto.php" beforeDir="false" afterPath="$PROJECT_DIR$/contacto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/headeryfooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-headeryfooter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +35,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+>>>>>>> f2a2c00ac3018d2427ccdd46c99d8937d9007bf0
   <component name="ProjectId" id="1pPc5KGDAOkzGLwuSw7jL0V1b9M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/fede/Tenis/tenispalafrugell.WordPress.2021-03-12.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -50,14 +70,39 @@
       <updated>1615087981717</updated>
       <workItem from="1615087982756" duration="5744000" />
       <workItem from="1615519799295" duration="884000" />
+<<<<<<< HEAD
       <workItem from="1616783883410" duration="29000" />
+=======
+      <workItem from="1616254055869" duration="8208000" />
+      <workItem from="1616281211133" duration="9243000" />
+>>>>>>> f2a2c00ac3018d2427ccdd46c99d8937d9007bf0
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="475" y="254" key="#Notifications" timestamp="1616254252638">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="475" y="254" key="#Notifications/0.0.1440.860@0.0.1440.860" timestamp="1616254252638" />
+    <state x="427" y="73" key="#PHP" timestamp="1616254267745">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="73" key="#PHP/0.0.1440.860@0.0.1440.860" timestamp="1616254267745" />
     <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1615519859501">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -66,5 +111,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="554" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1615089160200" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1616259977932">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1616259977932" />
   </component>
 </project>

@@ -1,0 +1,46 @@
+#slider{
+    width: 100%;
+    height: auto;
+}
+
+#nuestrosServicios{
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+#resumen{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#ResponsablesInscriptos{
+    margin-right: 100px;
+}
+
+.imgResumen{
+    width: 400px;
+}
+
+.titulo-tarjeta{
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #BDC3C7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#boton{
+    background-color: #034C8C;
+    color: white;
+    border: solid black 2px;
+    border-radius: 8px;
+    font-weight: bold;
+    width: 180px;
+}
+
+#contenedor-boton{
+    margin-bottom: 60px;
+}
